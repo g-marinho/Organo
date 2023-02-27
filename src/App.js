@@ -7,39 +7,29 @@ import Time from "./componentes/Time";
 function App() {
   const times = [
     {
-      nome: "Programação",
+      nome: "TI",
       corPrimaria: "#57c278",
       corSecundaria: "#d9f7e9",
     },
     {
-      nome: "Front End",
+      nome: "Operações",
       corPrimaria: "#82cffa",
       corSecundaria: "#e8f8ff",
     },
     {
-      nome: "Data Science",
+      nome: "Comercial",
       corPrimaria: "#a6d157",
       corSecundaria: "#f0f8e2",
     },
     {
-      nome: "DevOps",
+      nome: "RH",
       corPrimaria: "#e06b69",
       corSecundaria: "#fde7f8",
     },
     {
-      nome: "UX e Design",
+      nome: "Financeiro",
       corPrimaria: "#db6ebf",
       corSecundaria: "#fae9f5",
-    },
-    {
-      nome: "Mobile",
-      corPrimaria: "#ffba05",
-      corSecundaria: "#fff5d9",
-    },
-    {
-      nome: "Inovação e Gestão",
-      corPrimaria: "#ff8a29",
-      corSecundaria: "#ffeedf",
     },
   ];
 
